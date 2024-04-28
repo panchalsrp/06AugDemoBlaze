@@ -6,6 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.db.testBase.TestBase;
 
+//========= this project imported from github ==============
 public class CartPage extends TestBase {
 	
 	public CartPage()
