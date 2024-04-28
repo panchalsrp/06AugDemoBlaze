@@ -1,0 +1,438 @@
+2023-11-01 16:40:13,622 - DalalStreet Automation Framework -INFO - Framework Execution started
+2023-11-01 16:40:13,685 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-11-01 16:40:34,254 - DalalStreet Automation Framework -INFO - Framework Execution started
+2023-11-01 16:40:47,473 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-11-01 16:54:52,342 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-01 16:55:01,260 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 16:55:35,803 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 16:56:09,347 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 16:56:15,279 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-01 17:03:24,814 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-01 17:03:31,454 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:04:02,368 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:04:33,802 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:04:39,659 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-01 17:15:56,429 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-01 17:16:02,881 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:16:02,928 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-01 17:16:29,297 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-01 17:16:29,487 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-01 17:16:34,694 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:16:34,713 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-01 17:17:01,169 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-01 17:17:08,050 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:17:08,109 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-01 17:17:13,607 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-01 17:17:13,909 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-01 17:40:55,474 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-01 17:41:03,305 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:41:03,327 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-01 17:41:29,728 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-01 17:41:29,928 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-01 17:41:34,511 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:41:34,527 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-01 17:42:01,028 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-01 17:42:05,867 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-01 17:42:05,876 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-01 17:42:11,458 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-01 17:42:11,680 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-02 08:37:56,717 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-02 08:38:05,911 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-02 08:38:05,946 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-02 08:38:33,693 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-02 08:38:33,937 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-02 08:38:38,692 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-02 08:38:38,699 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-02 08:39:05,881 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-02 08:39:12,448 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-02 08:39:12,453 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-02 08:39:18,028 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-02 08:39:18,203 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-14 10:07:32,946 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-14 10:07:41,658 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:07:41,734 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-14 10:08:08,993 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-14 10:08:09,225 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-14 10:08:15,223 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:08:15,226 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-14 10:08:41,331 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-14 10:08:45,529 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:08:45,537 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-14 10:08:51,130 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-14 10:08:51,339 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-14 10:17:41,608 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-14 10:17:46,339 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:17:46,394 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-14 10:18:13,389 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-14 10:18:13,627 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-14 10:18:16,668 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:18:16,679 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-14 10:18:42,585 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-14 10:18:46,138 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:18:46,146 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-14 10:18:51,803 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-14 10:18:51,992 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-14 10:20:43,391 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-14 10:20:47,287 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:20:47,342 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-14 10:21:14,338 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-14 10:21:14,559 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-14 10:21:18,265 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:21:18,267 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-14 10:21:44,531 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-14 10:21:49,172 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:21:49,180 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-14 10:21:54,711 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-14 10:21:54,934 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-14 10:24:07,228 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-14 10:24:11,154 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:24:11,204 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-14 10:24:38,073 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-14 10:24:38,288 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-14 10:24:41,425 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:24:41,431 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-14 10:25:07,886 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-14 10:25:11,294 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:25:11,303 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-14 10:25:16,943 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-14 10:25:17,142 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-14 10:27:07,697 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-14 10:27:12,179 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:27:12,211 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-14 10:27:39,585 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-14 10:27:39,792 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-14 10:27:42,619 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:27:42,626 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-14 10:28:08,999 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-14 10:28:11,946 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:28:11,954 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-14 10:28:17,485 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-14 10:28:17,680 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-14 10:30:42,704 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-14 10:30:49,815 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:30:49,849 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-14 10:31:17,194 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-14 10:31:17,416 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-14 10:31:20,362 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:31:20,369 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-14 10:31:46,609 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-14 10:31:49,307 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:31:49,317 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-14 10:31:54,854 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-14 10:31:55,043 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-11-14 10:33:32,905 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-11-14 10:33:36,893 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:33:36,942 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-11-14 10:34:03,706 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-11-14 10:34:03,917 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-11-14 10:34:06,855 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:34:06,856 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-11-14 10:34:32,487 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-11-14 10:34:35,380 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-11-14 10:34:35,393 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-11-14 10:34:40,925 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-11-14 10:34:41,127 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-24 13:11:14,531 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 13:11:19,096 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:11:19,130 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 13:11:45,629 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-24 13:11:45,840 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-24 13:11:49,038 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:11:49,046 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 13:12:14,936 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-24 13:12:17,813 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:12:17,813 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 13:12:23,366 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-24 13:12:23,544 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-24 13:15:14,533 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 13:15:18,386 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:15:18,428 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 13:15:44,743 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-24 13:15:44,921 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-24 13:15:47,861 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:15:47,861 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 13:16:13,881 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-24 13:16:16,733 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:16:16,740 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 13:16:22,294 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-24 13:16:22,478 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-24 13:17:58,124 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 13:18:02,085 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:18:02,110 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 13:18:28,441 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-24 13:18:28,622 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-24 13:18:31,201 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:18:31,203 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 13:18:57,330 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-24 13:18:59,806 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 13:18:59,809 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 13:19:05,332 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-24 13:19:05,522 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-24 14:20:49,279 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 14:20:55,991 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 14:20:56,039 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 14:21:22,424 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-24 14:21:22,610 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-24 14:21:27,208 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 14:21:27,218 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 14:21:53,160 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-24 14:21:55,824 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 14:21:55,840 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 14:22:01,397 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-24 14:22:01,631 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-24 14:24:08,487 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 14:24:12,787 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 14:24:12,824 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 14:24:39,250 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-24 14:24:39,450 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-24 14:24:41,984 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 14:24:41,985 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 14:25:08,067 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-24 14:25:10,704 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 14:25:10,708 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 14:25:16,294 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-24 14:25:16,484 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-24 20:20:44,589 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 20:20:44,625 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 20:20:44,631 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyBuyProductWithLogin
+2023-12-24 20:20:44,641 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 20:20:44,642 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyBuyProductWithLogin1
+2023-12-24 20:20:44,651 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 20:20:44,651 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyLogin
+2023-12-24 20:21:11,220 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 20:21:11,252 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 20:21:11,258 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyBuyProductWithLogin
+2023-12-24 20:21:11,265 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 20:21:11,265 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyBuyProductWithLogin1
+2023-12-24 20:21:11,274 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 20:21:11,274 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyLogin
+2023-12-24 20:21:44,216 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 20:21:44,252 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 20:21:44,258 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyBuyProductWithLogin
+2023-12-24 20:21:44,265 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 20:21:44,266 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyBuyProductWithLogin1
+2023-12-24 20:21:44,273 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 20:21:44,274 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyLogin
+2023-12-24 20:23:58,373 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-24 20:24:02,292 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 20:24:02,342 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-24 20:24:28,788 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-24 20:24:28,978 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-24 20:24:34,061 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 20:24:34,071 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-24 20:24:59,812 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-24 20:25:04,315 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-24 20:25:04,328 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-24 20:25:09,768 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-24 20:25:09,953 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 17:33:50,613 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 17:33:55,880 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 17:33:55,971 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 17:33:55,974 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:33:56,254 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:33:56,255 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:33:56,521 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:33:56,522 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 17:37:01,074 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 17:37:04,553 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 17:37:04,655 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 17:37:04,662 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:37:04,914 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:37:04,915 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:37:05,161 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:37:05,164 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 17:39:10,895 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 17:39:14,633 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 17:39:14,707 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 17:39:14,712 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:39:14,988 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:39:14,990 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:39:15,220 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:39:15,221 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 17:44:04,234 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 17:44:07,239 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 17:44:07,303 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 17:44:07,306 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:44:07,564 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:44:07,566 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:44:07,813 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:44:07,816 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 17:46:47,720 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 17:46:51,553 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 17:46:51,596 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 17:46:51,611 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:46:51,862 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:46:51,863 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:46:52,083 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:46:52,084 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 17:50:37,263 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 17:50:41,680 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 17:50:43,073 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 17:50:43,075 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:50:43,310 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:50:43,314 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:50:43,521 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:50:43,534 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 17:58:03,635 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 17:58:07,271 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 17:58:08,658 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 17:58:08,660 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:58:08,903 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:58:08,903 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 17:58:09,122 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 17:58:09,134 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 18:05:17,181 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 18:05:21,704 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:05:23,110 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 18:05:23,645 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 18:05:23,901 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:05:26,599 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:05:27,577 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-25 18:05:27,660 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin1
+2023-12-25 18:05:27,877 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:05:30,544 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:05:31,619 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-25 18:05:31,691 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyLogin
+2023-12-25 18:05:31,915 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:05:32,444 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 18:09:39,342 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 18:09:43,723 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:09:45,200 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin
+2023-12-25 18:10:11,018 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 18:10:11,187 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:10:13,951 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:10:16,153 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyBuyProductWithLogin1
+2023-12-25 18:10:41,622 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-25 18:10:44,440 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:10:45,804 - DemoBlaze Automation Framework -INFO - Test case execution started - verifyLogin
+2023-12-25 18:10:51,236 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-25 18:10:51,421 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 18:15:26,432 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 18:15:30,556 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:15:57,534 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 18:15:57,727 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:16:00,511 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:16:27,025 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-25 18:16:31,683 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:16:38,676 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-25 18:16:38,938 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 18:24:04,523 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 18:24:11,055 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:24:39,674 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 18:24:39,862 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:24:43,074 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:25:10,636 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-25 18:25:14,935 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:25:21,889 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-25 18:25:22,129 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 18:39:28,264 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 18:39:33,069 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:40:01,074 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 18:40:01,304 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:40:01,816 - DemoBlaze Automation Framework -INFO - Test case execution skipped - verifyBuyProductWithLogin1
+2023-12-25 18:40:06,418 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:40:13,578 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-25 18:40:13,584 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 18:45:48,296 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 18:45:55,175 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:46:24,715 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 18:46:25,125 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:46:28,606 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:46:56,006 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-25 18:47:00,926 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:47:08,042 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-25 18:47:08,242 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 18:49:52,228 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 18:49:56,976 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:49:58,376 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 18:49:58,631 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:50:01,963 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:50:02,813 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin1
+2023-12-25 18:50:03,074 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:50:06,934 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:50:07,962 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyLogin
+2023-12-25 18:50:08,223 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:50:08,861 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 18:57:29,497 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 18:57:33,402 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:58:01,513 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 18:58:01,721 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 18:58:04,533 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:58:33,005 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-25 18:58:35,569 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 18:58:42,663 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-25 18:58:42,663 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 19:00:29,465 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 19:00:33,418 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:01:01,550 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 19:01:01,757 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 19:01:04,770 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:01:32,853 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-25 19:01:35,272 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:01:42,328 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-25 19:01:42,336 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 19:08:28,201 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 19:08:32,468 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:08:33,887 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 19:08:34,179 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 19:08:40,095 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:08:41,939 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin1
+2023-12-25 19:08:42,189 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 19:08:45,309 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:08:46,397 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyLogin
+2023-12-25 19:08:46,631 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 19:08:47,187 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-25 19:10:40,393 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-25 19:10:44,168 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:11:12,330 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-25 19:11:12,548 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-25 19:11:15,589 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:11:42,671 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-25 19:11:45,721 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-25 19:11:52,564 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-25 19:11:52,756 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-31 16:37:13,994 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-31 16:37:26,525 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 16:37:54,651 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-31 16:37:54,891 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-31 16:37:57,967 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 16:38:25,459 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-31 16:38:28,199 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 16:38:36,174 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-31 16:38:36,366 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-31 16:51:19,368 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-31 16:51:26,410 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 16:51:55,209 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-31 16:51:55,432 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-31 16:52:01,602 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 16:52:29,043 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-31 16:52:32,416 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 16:52:40,065 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-31 16:52:40,382 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2023-12-31 17:22:16,471 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2023-12-31 17:22:23,123 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 17:22:50,552 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2023-12-31 17:22:50,782 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2023-12-31 17:22:56,541 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 17:23:23,183 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2023-12-31 17:23:26,493 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2023-12-31 17:23:32,290 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyLogin
+2023-12-31 17:23:32,591 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2024-01-01 13:13:05,610 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2024-01-01 13:13:05,819 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2024-01-01 13:13:35,703 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2024-01-01 13:13:35,871 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2024-01-01 13:16:07,449 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2024-01-01 13:16:07,636 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2024-01-01 13:16:43,608 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2024-01-01 13:16:43,773 - DemoBlaze Automation Framework -INFO - Framework execution stopped
+2024-01-01 13:20:09,593 - DemoBlaze Automation Framework -INFO - Framework Execution started
+2024-01-01 13:20:24,618 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2024-01-01 13:20:56,678 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyBuyProductWithLogin
+2024-01-01 13:20:56,938 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2024-01-01 13:21:09,265 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2024-01-01 13:21:37,922 - DemoBlaze Automation Framework -INFO - Test case execution completed - verifyBuyProductWithLogin1
+2024-01-01 13:21:45,466 - DemoBlaze Automation Framework -INFO - Browser launches, url, maximize
+2024-01-01 13:21:51,949 - DemoBlaze Automation Framework -INFO - Test case execution failed - verifyLogin
+2024-01-01 13:21:52,636 - DemoBlaze Automation Framework -INFO - Take Screenshot
+2024-01-01 13:21:53,581 - DemoBlaze Automation Framework -INFO - Framework execution stopped

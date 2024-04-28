@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.db.testLayer.LoginPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="start"/>
+          <include name="setUp"/>
+          <include name="end"/>
+          <include name="verifyLogin"/>
+        </methods>
+      </class> <!-- com.db.testLayer.LoginPageTest -->
+      <class name="com.db.testLayer.BuyProduct">
+        <methods>
+          <include name="tearDown"/>
+          <include name="start"/>
+          <include name="setUp"/>
+          <include name="end"/>
+          <include name="verifyBuyProductWithLogin1"/>
+          <include name="verifyBuyProductWithLogin"/>
+        </methods>
+      </class> <!-- com.db.testLayer.BuyProduct -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
